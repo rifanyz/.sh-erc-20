@@ -1,0 +1,1 @@
+chmod +x erc20.sh && sed -i 's/\r$//' erc20.sh && ./erc20.sh
